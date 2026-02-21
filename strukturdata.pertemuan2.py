@@ -1,1 +1,1 @@
-print("Hello world")
+print("Hello world")git config user.email "email@gmail.com"
