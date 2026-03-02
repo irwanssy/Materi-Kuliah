@@ -1,1 +1,4 @@
-print(9,2,3,10,11,12,13,14,15,16,17,18,19,20)
+import sys
+logsApps = ("user1", "user2")
+print(logsApps[0])
+print(sys.getsizeof(logsApps))
