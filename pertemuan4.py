@@ -1,5 +1,5 @@
 #Set dalam bahasa Indonesia adalah “himpunan”, merupakan struktur data yang dapat memiliki satu atau lebih anggota didalamnya.
-#cara inisiasi set
+#cara inisiasi set dluuu
 #1 (kurung kurawal )
 import sys
 
