@@ -1,3 +1,4 @@
+#pertemuan 5 - Dictionary
 #membuat struktur data dictionary
 userLogin = {"name": "alfin", "age":18, "role":"maksman"}
 print(type(userLogin))
