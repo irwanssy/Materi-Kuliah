@@ -3,7 +3,7 @@ class Stack:
         self.data = data
     
     def push(self,data):
-        newNode = Node(data)
+        newNode = Stack(data)
         newNode.next = self.head
         self.head = newNode
 
@@ -22,6 +22,10 @@ class Stack:
         return temp.data 
 
 myStack = Stack()
+myStack.push(20)
+
+
+myStack.dispaly()
 
 
 
