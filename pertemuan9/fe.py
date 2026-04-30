@@ -1,4 +1,4 @@
-import streamlit as st
+import pertemuan5.streamlit as st
 from cdll import MusicPlaylist
 
 # Setup Page

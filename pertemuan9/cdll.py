@@ -39,7 +39,7 @@ class MusicPlaylist:
                 self.head = n
             self.current = n
 
-import streamlit as st
+import pertemuan5.streamlit as st
 
 # Setup Page
 st.set_page_config(page_title="UINSSC Beats", layout="wide")
